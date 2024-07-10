@@ -1,0 +1,212 @@
+
+
+.azeret-mono {
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  
+  font-style: normal;
+}
+
+.nav{
+    background-image: url(assets/Hero-bg.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 650px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 35px;
+}
+.nav-image{
+    margin-bottom: 30px;
+}
+ .nav .header-text{
+    height: 10%;
+}
+.nav-button{
+    background-color: #0D1321;
+    color: #ffffff;
+    padding: 15px 25px;
+    font-weight: 600px;
+    border: none;
+    border-radius: 8px;
+}
+.heading{
+    text-align: center;
+    padding-bottom: 25px;
+}
+.all-h3{
+    padding-bottom: 12px;
+
+    font-size: 28px;
+}
+p{
+    color: #717275;
+    font-size: 13px;
+}
+.main-content{
+    width: 70%;
+    background-color: #e1e8f3;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto;
+}
+.content-1{
+    display: flex;
+    justify-content: space-between;
+    margin: 8px 8px;
+    align-items: center;
+    background-color: #FFFFFF;
+
+}
+.head-up{
+    display: flex;
+    flex-direction: column;
+}
+.pera{
+    margin-left: 120px;
+    margin-right: 110px;
+    color: #5c5c61;
+
+}
+.img{
+    margin-right: 45px;
+}
+
+.video-content{
+    text-align: center;
+}
+.video-heading{
+   font-weight: 700; 
+   margin-bottom: 20px;
+}
+.video-paragraph{
+    margin-bottom: 35px;
+}
+.video-content{
+    background-color: #FFFFFF;
+}
+.target-heading{
+    text-align: center;
+    margin-bottom: 15px;
+
+}
+.h3{
+    font-weight: 1200px;
+}
+.under-line{
+    text-decoration: underline;
+    font-size: 15px;
+
+    font-weight: 600px;
+}
+.skills{
+    display: flex;
+    gap: 100px;
+}
+
+.skill-1{
+    background-color: rgba(245, 239, 230, 0.6);
+    padding: 25px;
+}
+.skill-2{
+  background-color: rgb(225, 236, 233);
+  padding: 25px;
+}
+.skill-3{
+    background-color: rgb(244, 244, 231);
+    padding: 25px;
+}
+.target-heading-2{
+    text-align: center;
+}
+.react{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  border: 2px solid rgb(247, 242, 242, 0.6);
+  border-radius: 8px;
+  margin-left: 35px;
+}
+.node{
+    padding-left: 35px;
+  display: flex;
+  margin-left: 35px;
+  gap: 30px;
+  border: 2px solid rgb(247, 242, 242, 0.6);
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+.mongo{
+    
+  display: flex;
+  border: 2px solid rgb(247, 242, 242, 0.6);
+  border-radius: 8px;
+  margin-left: 35px;
+}
+.handshake{
+    background-image: url(assets/handshake.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 270px;
+    width: 90%;
+    text-align: center; /*
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;*/
+    margin: 20px auto;
+}
+.support-middle{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.sada{
+     font-weight: 2200px;
+     color: white;
+     margin-top: 55px;
+}
+.text-style{
+    color: #535151;
+}
+input[type="text"]{
+  height: 35px;
+  width: 240px;
+  background-color: #f0e7e7;
+  border: none;
+  border-radius: 8px;
+  margin-right: 20px;
+}
+input[type="submit"]{
+    height: 35px;
+    width: 70px;
+    border: none;
+    border-radius: 8px;
+    font-weight: bolder;
+}
+.footer-content{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 40px;
+}
+.target-heading .header-text{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:#353636;
+    font-size: 12px;
+}
+.main-content .header-text{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #373739;
+    font-size: 12px;
+}
